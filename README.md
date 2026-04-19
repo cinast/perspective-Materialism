@@ -20,13 +20,8 @@ title= "@ide Cosi"
 存放着我几个月正在思考的一种 _怀疑论_ 式的世界观理论（暂且让我这么定位吧）：
 
 $$
-\begin{gathered}
-
                     视界唯物主义
 \\             perspective-Materialism
-
-\\           ——————————————————————————
-\end{gathered}
 $$
 
 <i style="color:#999999">
